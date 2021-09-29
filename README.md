@@ -1,16 +1,14 @@
-### Hi there 👋
+### Introduction
 
-<!--
-**aditiagarwalmzc/aditiagarwalmzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I am Aditi Agarwal a.k.a Mig. I am 19 years old, currently a Sophomore in college and a front-end-developer.
 
-Here are some ideas to get you started:
+As a front-end-developer, I enjoy using my obsessive attention to detail which explains my love for designing and enhancing using experience. I also love to solve problems on Leetcode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More about me
+- 🔭 I’m currently working on Pics Creek - A photo editing webapp
+- 🌱 I’m currently learning Swift and SwiftUI.
+- 😄 Pronouns: She/Her
+- ⚡ My interests and hobbies: I love writing poems and listening to Rock Music.
+
+### My Github
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditiagarwalmzc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
