@@ -1,6 +1,6 @@
 ### Introduction
 
-Hi there, I am Aditi Agarwal a.k.a Mig. I am 19 years old, currently a Sophomore in college and a front-end-developer.
+Hi there, I am Aditi Agarwal a.k.a Mig. I am 21 years old, currently in my Final year of college and a front-end-developer.
 
 As a front-end-developer, I enjoy using my obsessive attention to detail which explains my love for designing and enhancing user experience. I also love to solve problems on Leetcode.
 
